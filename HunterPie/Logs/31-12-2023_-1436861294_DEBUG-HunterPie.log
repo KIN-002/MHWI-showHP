@@ -1,0 +1,35 @@
+[上午 01:05:50] Loaded Traditional Chinese game strings
+[上午 01:06:16] 已關閉自動更新。如果您的 HunterPie 有任何問題或不支援目前遊戲版本，請開啟自動更新
+[上午 01:06:17] 載入魔物數據
+[上午 01:06:17] 載入異常狀態數據
+[上午 01:06:17] Loaded 101 different item crafting recipes!
+[上午 01:06:17] 初始化 HunterPie!
+[上午 01:06:17] [MODULE] Pre loading modules
+[上午 01:06:17] [MODULE] Pre loaded 0 module(s) in 1ms
+[上午 01:06:17] [LOG] HunterPie is ready! Waiting for game process to start...
+[上午 01:36:08] [ERROR] Failed to register hotkey. 1409
+[上午 01:36:08] [ERROR] Failed to register hotkey
+[上午 01:36:08] 載入 'MonsterHunterWorld.421652.map'
+[上午 01:36:08] [LOG] Monster Hunter: World (421652) found! (PID: 2708)
+[上午 01:36:28] [GMD] Indexed common\text\steam\item_chT (Strings: 5550 | Chunk Size: 254543 Bytes)
+[上午 01:36:28] [GMD] Indexed common\text\vfont\music_skill_ch (Strings: 99 | Chunk Size: 2579 Bytes)
+[上午 01:36:28] [GMD] Indexed common\text\em_names_chT (Strings: 208 | Chunk Size: 9723 Bytes)
+[上午 01:36:28] [MODULE] Loaded 0 module(s) in 0ms
+[上午 01:36:28] Injected HunterPie.Native.dll succesfully!
+[上午 01:36:28] [Socket] Connected to HunterPie.Native!
+[上午 01:36:28] [Native] Input Hook initialized successfully
+[上午 01:36:28] Initialized overlay with 9 widgets!
+[上午 01:36:28] [DISCORD] 開始新的 RPC 連接
+[上午 01:36:28] 初始化玩家記憶體掃描器
+[上午 01:36:28] 初始化魔物 (1) 掃描器
+[上午 01:36:28] 初始化魔物 (2) 掃描器
+[上午 01:36:28] 初始化魔物 (3) 掃描器
+[上午 01:36:28] 初始化遊戲記憶體掃描器
+[上午 01:36:28] [LOG] SESSION: 
+[上午 01:36:30] [DISCORD] 已連接到 Discord 的使用者: kin_002#0000
+[上午 01:36:54] [LOG] SESSION: z8m+fTw3-b!n
+[上午 01:36:55] [LOG] Logged on 傾慕和源
+[上午 01:48:47] [LOG] SESSION: 
+[上午 01:48:49] [LOG] Game process closed!
+[上午 01:48:49] [MODULE] Unloaded all modules.
+[上午 01:48:49] 停止遊戲掃描器

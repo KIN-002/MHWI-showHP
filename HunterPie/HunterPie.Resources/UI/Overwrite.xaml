@@ -1,0 +1,11 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:sys="clr-namespace:System;assembly=mscorlib" 
+    xmlns:Custom="clr-namespace:HunterPie.GUIControls.Custom_Controls;assembly=HunterPie.UI"
+    xmlns:Overlay="clr-namespace:HunterPie.GUI;assembly=HunterPie.UI"
+    xmlns:PlayerHealthParts="clr-namespace:HunterPie.GUI.Widgets.HealthWidget.Parts;assembly=HunterPie.UI"
+    xmlns:Monster="clr-namespace:HunterPie.GUI.Widgets.Monster_Widget.Parts;assembly=HunterPie.UI">
+    
+  
+	
+</ResourceDictionary>

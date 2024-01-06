@@ -1,0 +1,10 @@
+System.InvalidOperationException: 序列未包含符合的項目
+   於 System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   於 HunterPie.Core.Game.OnDamageDeal(Object sender, S_DEAL_DAMAGE info)
+   於 HunterPie.Native.Connection.Client.<HandlePackets>d__25.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   於 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   於 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   於 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   於 System.Threading.ThreadPoolWorkQueue.Dispatch()
