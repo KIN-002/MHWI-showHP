@@ -1,2 +1,1 @@
-by the https://github.com/HunterPie/HunterPie
-Share with my friends
+by the https://github.com/HunterPie/HunterPie mod Share with my friends
